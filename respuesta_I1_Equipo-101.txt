@@ -7,7 +7,9 @@ b-¿Si ALFA agrega un archivo los demás integrantes lo ven?
   Alfa: Si los llegan a ver.
 
 c-¿Si BETA agrega un archivo los demás integrantes lo ven?
+  BETA: Si, los demás integrantes pueden ver el archivo.
 
 d-¿De qué forma se comunicaron ustedes?
+  BETA: Nos comunicamos mediante un grupo de WhatsApp para poder organizarnos mejor.
 
 e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
