@@ -13,3 +13,4 @@ d-¿De qué forma se comunicaron ustedes?
   BETA: Nos comunicamos mediante un grupo de WhatsApp para poder organizarnos mejor.
 
 e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
+  GAMMA: La mejor forma de comunicarnos entre nosotros dentro de GitHub es mediante issues, ya que permite dejar mensajes, hacer consultas y organizar tareas.
